@@ -1,0 +1,6 @@
+framework module Pods_CBNetworking {
+  umbrella header "Pods-CBNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
